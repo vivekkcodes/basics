@@ -12,6 +12,9 @@ Finds the second largest number in an array.
 
 Finds the frequency of elements in an array.
 
+### 3.zeroToEnd.cpp
+Move all 0s to end of element without change in array.
+
 ## 🛠️ Topics
 
 - C++ Basics
