@@ -15,6 +15,12 @@ Finds the frequency of elements in an array.
 ### 3.zeroToEnd.cpp
 Move all 0s to end of element without change in array.
 
+### 4.findMissingNum.cpp
+find missing number in array.
+
+### 5.twoSum.cpp
+find first two element sum is equal to targets.
+
 ## 🛠️ Topics
 
 - C++ Basics
