@@ -21,6 +21,9 @@ find missing number in array.
 ### 5.twoSum.cpp
 find first two element sum is equal to targets.
 
+### 6. factorial.cpp
+print factorial of number.
+
 ## 🛠️ Topics
 
 - C++ Basics
