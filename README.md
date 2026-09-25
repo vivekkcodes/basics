@@ -24,6 +24,9 @@ find first two element sum is equal to targets.
 ### 6. factorial.cpp
 print factorial of number.
 
+### 7. nthfibonacci.cpp
+find nth fibonacci number.
+
 ## 🛠️ Topics
 
 - C++ Basics
