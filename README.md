@@ -27,6 +27,9 @@ print factorial of number.
 ### 7. nthfibonacci.cpp
 find nth fibonacci number.
 
+### 8. palindromeCheck.cpp
+check string is palindrome or not.
+
 ## 🛠️ Topics
 
 - C++ Basics
